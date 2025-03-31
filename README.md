@@ -1,1 +1,1 @@
-Hi, I am Ricardo. Mexican Electrical Engineer student.
+Hi, I am Ricardo. Electrical and Computer Engineer student.
